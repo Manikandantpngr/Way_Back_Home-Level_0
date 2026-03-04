@@ -9,7 +9,10 @@ Way Back Home is a hands-on workshop experience that teaches Google Cloud AI tec
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-waybackhome.dev-blue?style=for-the-badge)](https://waybackhome.dev)
 [![Codelab](https://img.shields.io/badge/Codelab-Level%200-green?style=for-the-badge)](https://codelabs.developers.google.com/way-back-home-level-0/instructions)
 [![Codelab](https://img.shields.io/badge/Codelab-Level%31-orange?style=for-the-badge)](https://codelabs.developers.google.com/way-back-home-level-1/instructions)
-
+[![Codelab](https://img.shields.io/badge/Codelab-Level%202-green?style=for-the-badge)](x)
+[![Codelab](https://img.shields.io/badge/Codelab-Level%203-orange?style=for-the-badge)](https://codelabs.developers.google.com/way-back-home-level-3/instructions)
+[![Codelab](https://img.shields.io/badge/Codelab-Level%204-green?style=for-the-badge)](https://codelabs.developers.google.com/way-back-home-level-4/instructions)
+[![Codelab](https://img.shields.io/badge/Codelab-Level%205-orange?style=for-the-badge)](https://codelabs.developers.google.com/way-back-home-level-5/instructions)
 ## 🎮 The Experience
 
 You're a space explorer whose ship has crashed on an uncharted planet. Your rescue beacon is offline, and you're scattered across the surface with other survivors. To get home, you must:
@@ -20,6 +23,8 @@ You're a space explorer whose ship has crashed on an uncharted planet. Your resc
 | **Level 1** | Pinpoint your crash location | Multi-agent systems, MCP servers, ADK, parallel processing |
 | **Level 2** | Process incoming SOS signals | Event-driven agents, A2A communication *(coming soon)* |
 | **Level 3** | Coordinate group rescue | Agent orchestration, consensus protocols *(coming soon)* |
+| **Level 4** | Coordinate group rescue | Agent orchestration, consensus protocols *(coming soon)* |
+| **Level 5** | Coordinate group rescue | Agent orchestration, consensus protocols *(coming soon)* |
 
 ## 🛠️ Technology Stack
 
