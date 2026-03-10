@@ -44,7 +44,7 @@ You're a space explorer whose ship has crashed on an uncharted planet. Your resc
 
 2. **Clone and setup:**
    ```bash
-   git clone https://github.com/google-americas/way-back-home.git
+   git clone https://github.com/Manikandantpngr/Way_Back_Home-Level_0.git
    cd way-back-home
    ```
 
@@ -73,32 +73,32 @@ See [Deployment Guide](#-deployment) below for running your own instance.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                           Way Back Home                                  │
+│                           Way Back Home                                 │
 ├─────────────────────────────────────────────────────────────────────────┤
-│                                                                          │
-│   Participant Journey                                                    │
-│   ───────────────────                                                    │
-│                                                                          │
-│   ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐         │
-│   │ Level 0  │───▶│ Level 1  │───▶│ Level 2  │───▶│ Level 3  │         │
-│   │ Identity │    │ Location │    │   SOS    │    │  Rescue  │         │
-│   └──────────┘    └──────────┘    └──────────┘    └──────────┘         │
-│        │               │                                                 │
-│        ▼               ▼                                                 │
+│                                                                         │
+│   Participant Journey                                                   │
+│   ───────────────────                                                   │
+│                                                                         │
+│   ┌──────────┐    ┌──────────┐    ┌──────────┐      ┌──────────┐        │
+│   │ Level 0  │───▶│ Level 1  │───▶│ Level 2  │───▶│ Level 3  │        │
+│   │ Identity │    │ Location │    │   SOS    │      │  Rescue  │        │
+│   └──────────┘    └──────────┘    └──────────┘      └──────────┘        │
+│        │               │                                                │
+│        ▼               ▼                                                │
 │   ┌─────────────────────────────────────────────────────────────┐       │
-│   │                    Backend API (Cloud Run)                   │       │
-│   │  • Participant registration    • Evidence storage            │       │
-│   │  • Location confirmation       • Event management            │       │
+│   │                    Backend API (Cloud Run)                  │       │
+│   │  • Participant registration    • Evidence storage           │       │
+│   │  • Location confirmation       • Event management           │       │
 │   └─────────────────────────────────────────────────────────────┘       │
-│        │               │                                                 │
-│        ▼               ▼                                                 │
-│   ┌──────────┐    ┌──────────┐    ┌──────────────────────────┐         │
+│        │               │                                                │
+│        ▼               ▼                                                │
+│   ┌──────────┐    ┌──────────┐    ┌─────────────────────────-─┐         │
 │   │Firestore │    │ Firebase │    │      Frontend (Next.js)   │         │
-│   │          │    │ Storage  │    │  • 3D planet visualization │         │
-│   │• events  │    │• avatars │    │  • Real-time participant   │         │
-│   │• users   │    │• evidence│    │    tracking                │         │
-│   └──────────┘    └──────────┘    └──────────────────────────┘         │
-│                                                                          │
+│   │          │    │ Storage  │    │  • 3D planet visual       │         │
+│   │• events  │    │• avatars │    │  • Real-time participant  │         │
+│   │• users   │    │• evidence│    │    tracking               │         │
+│   └──────────┘    └──────────┘    └────────────────────────-──┘         │
+│                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -113,7 +113,7 @@ See [Deployment Guide](#-deployment) below for running your own instance.
 
 2. **Clone and configure:**
    ```bash
-   git clone https://github.com/google-americas/way-back-home.git
+   git clone https://github.com/Manikandantpngr/Way_Back_Home-Level_0.git
    cd way-back-home
    
    # Configure your project
